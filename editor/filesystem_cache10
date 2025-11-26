@@ -1,11 +1,12 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1764186778
+::res://::1764187201
+c7486938aaedd7ff37918a3c1238f012-removebg-preview.png::CompressedTexture2D::3872058280764787390::1764187201::1764187201::1::::<><><>0<>0<>44fb8d1b517dbd014a8832d0044b00fc<>res://.godot/imported/c7486938aaedd7ff37918a3c1238f012-removebg-preview.png-2315dfed336c1b22984574487c764d28.ctex::
 character_body_2d.gd::GDScript::8800074649211996446::1764182113::0::1::::<>CharacterBody2D<><>0<>0<><>::
 collision_shape_2d.gd::GDScript::393041138728313734::1764177276::0::1::::<>Area2D<><>0<>0<><>::
 collision_shape_2d_2.gd::GDScript::3320291353604756507::1764177699::0::1::::<>RefCounted<><>0<>0<><>::
 export_presets.cfg::TextFile::-1::1764184874::0::1::::<><><>0<>0<><>::
 level.gd::GDScript::2618851497353442958::1764106664::0::1::::<>RefCounted<><>0<>0<><>::
-level.tscn::PackedScene::698223122621468639::1764184488::0::1::::<><><>0<>0<><>::uid://do3ep56lbglsy::::res://player.gd<>uid://di72xdysyq4a0::::res://photos/back.png<>uid://dmqg4lb55ufa::::res://photos/загружено.png<>uid://dsycy4ukq2r72::::res://photos/загружено (1).png<>uid://1435v5k38fd0::::res://photos/pngtree-finish-button-in-pixel-art-style-png-image_5683603.png
+level.tscn::PackedScene::698223122621468639::1764186933::0::1::::<><><>0<>0<><>::uid://do3ep56lbglsy::::res://player.gd<>uid://di72xdysyq4a0::::res://photos/back.png<>uid://dmqg4lb55ufa::::res://photos/загружено.png<>uid://dsycy4ukq2r72::::res://photos/загружено (1).png<>uid://1435v5k38fd0::::res://photos/pngtree-finish-button-in-pixel-art-style-png-image_5683603.png<>uid://ms7ibi36e5d1::::res://Без названия.png
 parallax_background.gd::GDScript::445093629880477819::1764110343::0::1::::<>RefCounted<><>0<>0<><>::
 player.gd::GDScript::8199979718095885960::1764179479::0::1::::<>CharacterBody2D<><>0<>0<><>::
 Без названия.png::CompressedTexture2D::881382219544826376::1764186778::1764186778::1::::<><><>0<>0<>6551df7b0635ed9d86c0b6c1419ed5a7<>res://.godot/imported/Без названия.png-56af5121d743a7a822f78d192369f97f.ctex::
