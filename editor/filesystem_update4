@@ -1,0 +1,5 @@
+res://level.tscn
+res://collision_shape_2d.gd
+res://collision_shape_2d_2.gd
+res://player.gd
+res://character_body_2d.gd

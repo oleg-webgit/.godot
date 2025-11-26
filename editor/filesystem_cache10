@@ -1,0 +1,16 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1764184488
+character_body_2d.gd::GDScript::8800074649211996446::1764182113::0::1::::<>CharacterBody2D<><>0<>0<><>::
+collision_shape_2d.gd::GDScript::393041138728313734::1764177276::0::1::::<>Area2D<><>0<>0<><>::
+collision_shape_2d_2.gd::GDScript::3320291353604756507::1764177699::0::1::::<>RefCounted<><>0<>0<><>::
+level.gd::GDScript::2618851497353442958::1764106664::0::1::::<>RefCounted<><>0<>0<><>::
+level.tscn::PackedScene::698223122621468639::1764184488::0::1::::<><><>0<>0<><>::uid://do3ep56lbglsy::::res://player.gd<>uid://di72xdysyq4a0::::res://photos/back.png<>uid://dmqg4lb55ufa::::res://photos/загружено.png<>uid://dsycy4ukq2r72::::res://photos/загружено (1).png<>uid://1435v5k38fd0::::res://photos/pngtree-finish-button-in-pixel-art-style-png-image_5683603.png
+parallax_background.gd::GDScript::445093629880477819::1764110343::0::1::::<>RefCounted<><>0<>0<><>::
+player.gd::GDScript::8199979718095885960::1764179479::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://photos/::1764184467
+back.png::CompressedTexture2D::7788513515873910733::1763888705::1764184489::1::::<><><>0<>0<>a39f8bc07c98b1b9007bbfbc74def7a0<>res://.godot/imported/back.png-03b90a188e53cce5a5eb31f7d1b85aa5.ctex::
+istockphoto-1333010525-612x612.jpg::CompressedTexture2D::7462104449151737066::1763881812::1764184488::1::::<><><>0<>0<>85f036cadef576b2e6c80448f97a5de6<>res://.godot/imported/istockphoto-1333010525-612x612.jpg-925035b818fa3a68105fd7de61bc6b1f.ctex::
+pngtree-finish-button-in-pixel-art-style-png-image_5683603.png::CompressedTexture2D::1886531688898743451::1764102184::1764184488::1::::<><><>0<>0<>634499ae34efaef01ecb30d1a2e3cd77<>res://.godot/imported/pngtree-finish-button-in-pixel-art-style-png-image_5683603.png-ee66d41c68b30250f03e110b6f355871.ctex::
+pngtree-start-button-in-pixel-art-style-png-image_4764304.png::CompressedTexture2D::3119864385710295917::1764181467::1764184488::1::::<><><>0<>0<>4a1a1e6b303756edf6d86d8409aec43b<>res://.godot/imported/pngtree-start-button-in-pixel-art-style-png-image_4764304.png-a6efe8f0ca29be3a5a6db128b7b4dce4.ctex::
+загружено (1).png::CompressedTexture2D::8472372150250631223::1764182550::1764184488::1::::<><><>0<>0<>1d167724a63bcfafe6db6403aa9bcd3b<>res://.godot/imported/загружено (1).png-6a54e7b7c6bf09f8f7fbc150ba2e91bd.ctex::
+загружено.png::CompressedTexture2D::236322790867237930::1764100979::1764184488::1::::<><><>0<>0<>6f270dbbebf1348295aa026a364736aa<>res://.godot/imported/загружено.png-3d861efaad195cd039ea00e986172a51.ctex::
